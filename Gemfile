@@ -58,3 +58,5 @@ gem 'less-rails'
 gem 'therubyracer'
 
 gem 'carrierwave'
+
+gem 'streamio-ffmpeg'
